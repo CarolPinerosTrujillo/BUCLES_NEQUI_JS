@@ -1,0 +1,3 @@
+TALLER DE BUCLES (LOOPS) EN JAVASCRIPT
+
+Se desarrolló taller con lógica de programación en JavaScript mediante ejercicios prácticos que incluyen el uso de bucles (for, while, do...while) para iterar y controlar flujos repetitivos, junto con la lectura de datos del usuario usando prompt-sync; se implementan funcionalidades como el cálculo de movimientos de un usuario, validación de PIN, creación de un menú interactivo que se repite hasta salir, filtrado y búsqueda en arrays utilizando break y continue, y finalmente el procesamiento de múltiples usuarios mediante ciclos anidados para totalizar sus movimientos, consolidando el manejo de estructuras de control, condiciones y manipulación de datos.
