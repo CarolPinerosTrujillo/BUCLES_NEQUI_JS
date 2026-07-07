@@ -17,8 +17,8 @@ for (let i = 0; i < movimientos.length; i++) {
     cantidadIngresos = cantidadIngresos + 1;
     cantidadMovimientos=cantidadMovimientos+1;
     }
+    /// console.log("Cantidad de retiros:" ,cantidadRetiros); imprime 5 veces las veces que vaya contanto que hay un retiro
     
-    //let cantidadMovimientos = cantidadIngresos + cantidadRetiros
 }
 
 console.log("Total de la cuenta: ",total);
